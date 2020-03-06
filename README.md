@@ -1,5 +1,5 @@
 # RSS
- 公开部分订阅RSS
+ 公开部分订阅RSS,需要结合玄武[https://sec.today/pulses/]、twitter等一起食用.
  [toc]
 # 国内安全
 | title              | url                                    |
@@ -48,7 +48,6 @@
 | ETenal                                                       | https://etenal.me/feed                                         |
 | jianfen's blog                                               | http://www.jianfensec.com/feed/                                |
 | Ran Menscher's Blog                                          | https://menschers.com/feed/                                    |
-| paper - Last paper                                           | https://paper.seebug.org/rss/                                  |
 | mod%log                                                      | http://www.modzero.ch/modlog/rss.xml                           |
 | Pop Pop Ret                                                  | http://poppopret.blogspot.com/feeds/posts/default              |
 | gynvael.coldwind//vx.log (pl)                                | http://gynvael.coldwind.pl/rss_pl.php                          |
@@ -150,7 +149,6 @@
 | Alex Ionescu’s Blog                                          | http://www.alex-ionescu.com/?feed=rss2                         |
 | louys                                                        | http://www.louys.net.cn/index.php/feed/                        |
 | Recent Articles                                              | https://cyseclabs.com/feed.atom                                |
-| Exodus Intelligence                                          | http://blog.exodusintel.com/feed/                              |
 | the_nenad_x                                                  | http://the-nenad-x.blogspot.com/feeds/posts/default            |
 | xorl %eax, %eax                                              | http://xorl.wordpress.com/feed/                                |
 | waliedassar                                                  | http://waleedassar.blogspot.com/feeds/posts/default            |
@@ -192,10 +190,22 @@
 | sploitF-U-N                                                  | https://sploitfun.wordpress.com/feed/                          |
 | Solution 36                                                  | http://feeds2.feedburner.com/intheknow-security                |
 | This is a One Way Ride.                                      | http://h3ysatan.blogspot.com/feeds/posts/default               |
+# MachineLearning
+| title              | url                                          |
+|:-------------------|:---------------------------------------------|
+| Jon Oberheide      | https://jon.oberheide.org/feeds/all.atom.xml |
+| 世事难料，保持低调 | http://blog.csdn.net/ariesjzj/rss/list       |
+# WirelessSecurity
+| title                                                                                      | url                                                      |
+|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------|
+| 雪碧 0xroot | RadioHub | 通信🐶 硬件🐶的|GNURadio |SDR |RF Hacking 随笔 | 好记性不如烂博客 | https://cn0xroot.com/feed/                               |
+| 无线时代                                                                                   | http://www.beamsky.com/feed/                             |
+| Going on my way…                                                                           | http://domonkos.tomcsanyi.net/?feed=rss2                 |
+| Immunity Products                                                                          | http://immunityproducts.blogspot.com/feeds/posts/default |
+| rtl-sdr.com                                                                                | http://www.rtl-sdr.com/feed/                             |
 # Reverse
 | title                                                                                                      | url                                                            |
 |:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|
-| paper - Last paper                                                                                         | https://paper.seebug.org/rss/                                  |
 | LightBulbOne                                                                                               | https://lightbulbone.com/index.xml                             |
 | ADD / XOR / ROL                                                                                            | http://addxorrol.blogspot.com/feeds/posts/default              |
 | Automated Malware Analysis                                                                                 | http://joe4security.blogspot.com/feeds/posts/default           |
@@ -286,20 +296,6 @@
 | LSE Blog                                                                                                   | http://blog.lse.epita.fr/rssfeed.xml                           |
 | pzhxbz的技术笔记本                                                                                         | http://pzhxbz.cn/?feed=rss2                                    |
 | Gorgias'Blog                                                                                               | https://gorgias.me/atom.xml                                    |
-# MachineLearning
-| title              | url                                          |
-|:-------------------|:---------------------------------------------|
-| Jon Oberheide      | https://jon.oberheide.org/feeds/all.atom.xml |
-| 世事难料，保持低调 | http://blog.csdn.net/ariesjzj/rss/list       |
-# WirelessSecurity
-| title                                                                                      | url                                                      |
-|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------|
-| 雪碧 0xroot | RadioHub | 通信🐶 硬件🐶的|GNURadio |SDR |RF Hacking 随笔 | 好记性不如烂博客 | https://cn0xroot.com/feed/                               |
-| 无线时代                                                                                   | http://www.beamsky.com/feed/                             |
-| Going on my way…                                                                           | http://domonkos.tomcsanyi.net/?feed=rss2                 |
-| Immunity Products                                                                          | http://immunityproducts.blogspot.com/feeds/posts/default |
-| xmsec - 陌小生                                                                             | https://www.xmsec.cc/rss/                                |
-| rtl-sdr.com                                                                                | http://www.rtl-sdr.com/feed/                             |
 # WebSecurity
 | title                                                                                                   | url                                                                  |
 |:--------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
@@ -379,7 +375,6 @@
 | Security & Code Blog from Bitquark                                                                      | https://bitquark.co.uk/blog/feed.rss                                 |
 | Kaibro's blog                                                                                           | https://blog.kaibro.tw/atom.xml                                      |
 | Взрывной блог                                                                                           | http://feeds.feedburner.com/bo0om                                    |
-| 独自等待'S Blog                                                                                         | https://www.waitalone.cn/feed#from:www.waitalone.cn                  |
 | Cnnetarmy                                                                                               | http://www.cnnetarmy.com/feed/                                       |
 | Dlive's Blog                                                                                            | http://d1iv3.me/atom.xml                                             |
 | Bushwhackers' blog                                                                                      | https://blog.bushwhackers.ru/rss/                                    |
@@ -426,7 +421,6 @@
 | riusksk's blog                                                                                          | http://riusksk.me/atom.xml                                           |
 | 勾陈安全实验室                                                                                          | http://www.polaris-lab.com/index.php/feed/                           |
 | Vulnspy Blog                                                                                            | https://blog.vulnspy.com/atom.xml                                    |
-| 博客园_Sevck's Blog                                                                                     | http://www.cnblogs.com/sevck/rss                                     |
 | Microsoft Security Response Center                                                                      | https://msrc-blog.microsoft.com/feed/                                |
 | 离别歌                                                                                                  | https://www.leavesongs.com/rss.php                                   |
 | 在麦香浓郁的田野上                                                                                      | http://mxny.org/feed                                                 |
@@ -484,7 +478,6 @@
 | Staaldraad                                                                                              | https://staaldraad.github.io/index.xml                               |
 | Ruilin                                                                                                  | http://rui0.cn/feed                                                  |
 | Green_m's blog                                                                                          | https://green-m.github.io/feed.xml                                   |
-| HackerOne Hacker Activity                                                                               | https://rss.ricterz.me/hacktivity                                    |
 | Minded Security Blog                                                                                    | http://blog.mindedsecurity.com/feeds/posts/default                   |
 | radi::blog                                                                                              | http://radi.r-n-d.org/feeds/posts/default                            |
 | Black.hat                                                                                               | http://e-omidfar.blogspot.com/feeds/posts/default                    |
@@ -527,7 +520,6 @@
 | xmsec - 陌小生                                                                                          | http://www.xmsec.cc/rss/                                             |
 | imlonghao                                                                                               | http://imlonghao.com/feed                                            |
 | 博客园_EtherDream の 原创空间                                                                           | http://www.cnblogs.com/index-html/rss                                |
-| 倾旋的博客                                                                                              | http://payloads.online/feed.xml                                      |
 | Somnus's blog                                                                                           | https://foxgrin.github.io/atom.xml                                   |
 | Egor Homakov                                                                                            | http://homakov.blogspot.com/feeds/posts/default                      |
 | 阿小信的博客                                                                                            | http://axiaoxin.com/feeds/                                           |
@@ -581,7 +573,6 @@
 | Panda - 专注于网络空间安全研究                                                                          | https://www.cnpanda.net/feed/                                        |
 | 勿忘初心 - Ch1ng's Blog - Rss 的评论                                                                    | https://www.ch1ng.com/blog/feed/rss.html                             |
 | Josip Franjković - archived security blog                                                               | http://josipfranjkovic.blogspot.com/feeds/posts/default              |
-| HAHWUL                                                                                                  | https://www.hahwul.com/rss.xml                                       |
 | 博客园_逆向与安全                                                                                       | http://www.cnblogs.com/2014asm/rss                                   |
 | w00tsec                                                                                                 | http://w00tsec.blogspot.com/feeds/posts/default                      |
 | Chybeta                                                                                                 | http://chybeta.github.io/atom.xml                                    |
@@ -718,12 +709,10 @@
 |:-------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
 | Evi1cg's blog                                                                                          | https://evi1cg.me/atom.xml                                      |
 | K8拉登哥哥's Blog                                                                                      | http://qqhack8.blog.163.com/rss/                                |
-| 独自等待'S Blog                                                                                        | https://www.waitalone.cn/feed#from:www.waitalone.cn             |
 | Secure Belief                                                                                          | http://amolnaik4.blogspot.com/feeds/posts/default               |
 | 残笑's 博客                                                                                            | http://blog.residuallaugh.site/?feed=rss2                       |
 | ImNotHere                                                                                              | http://happytree.farbox.com/feed                                |
 | Minded Security Blog                                                                                   | http://blog.mindedsecurity.com/feeds/posts/default              |
-| 倾旋的博客                                                                                             | http://payloads.online/feed.xml                                 |
 | Icewall's blog                                                                                         | http://www.icewall.pl/?feed=rss2                                |
 | byt3bl33d3r                                                                                            | https://byt3bl33d3r.github.io/feeds/all.rss.xml                 |
 | Tyranid's Lair                                                                                         | https://tyranidslair.blogspot.com/feeds/posts/default           |
@@ -825,6 +814,7 @@
 | 谢乾坤 | Kingname                      | http://www.kingname.info/atom.xml            |
 | 阮一峰的网络日志                       | http://feeds.feedburner.com/ruanyifeng       |
 | Beyond the Void                        | https://www.byvoid.com/zhs/feed              |
+| 面向信仰编程 - Articles                | https://draveness.me/feed.xml                |
 | 余果的博客                             | https://yuguo.us/feed.xml                    |
 | 编程随想的博客                         | http://feeds2.feedburner.com/programthink    |
 | 小胡子哥的个人网站                     | http://www.barretlee.com/rss2.xml            |
